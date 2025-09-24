@@ -1,4 +1,4 @@
-# このサイトについて
+ようこそ、AI Coding Lab – TERAKOYA Online へ！
 
 ここは **AI Coding Lab – TERAKOYA Online** の母艦サイトです。  
 進捗ログや外部リンクをまとめ、オープンに記録していきます。
