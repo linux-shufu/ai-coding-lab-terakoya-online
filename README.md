@@ -13,8 +13,8 @@
 
 ## 📂 外部リンク（準備中）
 
-- 🌐 GitHub Pages
-- 📝 はてなブログ
+- 🌐 [GitHub Pages](https://linux-shufu.github.io/ai-coding-lab-terakoya-online/)
+- 📝 [はてなブログ（主婦money）](https://shuhumoney.net/)
 - 📚 Zenn
 - 🛒 BOOTH
 
