@@ -2,8 +2,12 @@ title: AI Coding Lab
 description: TERAKOYA Online – フリーランス主婦のAI × ローコード研究所
 theme: minima
 
-# GA4 のカスタム head ファイルを読み込む
+# GA用の旧設定は削除済み
+# google_analytics: G-33H6XV7JH7 ←これは削除
+
+# カスタム head を読み込む設定
 include:
   - _includes/head-custom.html
+
 
 
