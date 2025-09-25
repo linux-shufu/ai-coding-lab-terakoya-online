@@ -14,7 +14,6 @@
 ## 📂 外部リンク（準備中）
 
 - 🌐 [GitHub Pages](https://linux-shufu.github.io/ai-coding-lab-terakoya-online/)
-- 📝 [はてなブログ（主婦money）](https://shuhumoney.net/)
 - 📚 Zenn
 - 🛒 BOOTH
 
@@ -26,7 +25,14 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
+## 🔐 プライバシーポリシー
+
+当サイトでは Google Analytics を使用しており、Cookie を通じて匿名の利用データを収集しています。  
+詳しくは [プライバシーポリシー](./privacy-policy.html) をご覧ください。
+
+---
+
 ### 日本語サマリー
 - 自由に利用・改変・配布・商用利用できます  
 - ただし著作権表示とライセンス文は残してください  
-- ソフトウェアを利用して生じたいかなる問題にも、作者は責任を負いません  
+- ソフトウェアを利用して生じたいかなる問題にも、作者は責任を負いません
