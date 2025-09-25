@@ -32,7 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
-### 日本語サマリー
+## 日本語サマリー
 - 自由に利用・改変・配布・商用利用できます  
 - ただし著作権表示とライセンス文は残してください  
 - ソフトウェアを利用して生じたいかなる問題にも、作者は責任を負いません
