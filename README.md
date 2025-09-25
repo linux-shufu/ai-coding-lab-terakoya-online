@@ -14,7 +14,7 @@
 ## 📂 外部リンク（準備中）
 
 - 🌐 [GitHub Pages](https://linux-shufu.github.io/ai-coding-lab-terakoya-online/)
-- 📚 Zenn
+- 📚 [Zenn](https://zenn.dev/linux_shufu/scraps/dd5fd47c433999)
 - 🛒 BOOTH
 
 ---
